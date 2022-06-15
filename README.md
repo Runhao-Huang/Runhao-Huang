@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Runhao-Huang
 - 👀 I’m interested in software Development
-- 🌱 I’m currently learning java, C++, html, css, JavaScript
+- 🌱 Skills: Java, Python, C++, HTML, React, CSS, JavaScript, Node.js, Express, EJS, Motoko, SQL, VBA, R, Racket
 - 💞️ I’m looking to collaborate on projects that can train my ability of software engineering.
 - 📫 How to reach me huanr20@wfu.edu
 
